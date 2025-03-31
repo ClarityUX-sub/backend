@@ -5,7 +5,9 @@ import cloudinary.uploader
 from fastapi import FastAPI
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
+from dotenv import load_dotenv
 
+load_dotenv()
 app = FastAPI()
 
 # CORS settings

@@ -15,7 +15,9 @@
 
 ## 📷 **Demo**
 
-![Demo Screenshot](https://your-image-url.com)
+![Demo Screenshot](./example/input/cam00.jpg)
+![Demo Screenshot](./example/output/results_gaze.jpg)
+![Demo Screenshot](./example/output/screen_gaze_point.jpg)
 
 ---
 
